@@ -1,0 +1,5 @@
+package lab3
+
+enum class RedundancyMethod {
+    DISTRIBUTED_LOADED, DISTRIBUTED_NOT_LOADED, COMMON_LOADED, COMMON_NOT_LOADED
+}
